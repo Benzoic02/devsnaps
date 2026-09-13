@@ -2,7 +2,7 @@
 
 > A visual reference library for developers who care about the details of their workspace.
 
-DevSnaps is a portfolio-style exploration of how developer tools can feel personal, calm, and worth returning to. It brings palettes, IDE skins, terminal environments, and practical code references into one focused workspace where people can browse, save, and share the small pieces of craft that shape how they work.
+DevSnaps brings palettes, IDE skins, terminal environments, and practical code references into one focused workspace where people can browse, save, and share the small pieces of craft that shape how they work.
 
 ## The idea
 
